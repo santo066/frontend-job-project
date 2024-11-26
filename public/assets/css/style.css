@@ -1,0 +1,24 @@
+.buton-group:hover .second-btn svg{
+    transform: rotate(90deg);
+}
+.buton-group:hover 
+.first-btn,
+.second-btn{
+    background-color: #6F42C1;
+}
+
+.my-slider {
+    position: relative;
+}
+.my-slider .next-button {
+    border: 1px solid #7E53D4;
+    border-color: #7E53D4;
+}
+.my-slider .priv-button {
+    border: 1px solid #7E53D4;
+    border-color: #7E53D4;
+}
+
+body{
+    background-color: #F4F8FF;
+}
